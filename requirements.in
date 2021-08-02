@@ -1,0 +1,7 @@
+numpy
+matplotlib
+seaborn
+pandas
+scipy==1.4.*
+pulp==2.1
+
